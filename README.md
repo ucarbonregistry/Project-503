@@ -46,3 +46,15 @@ ________
 2 /M/S Nutan Wind Farm /Jamnagar/ SEL/1500/13-14/3423 /07/03/2014
 ____________
 3 /M/S Nutan Wind Farm/ Jamnagar /SEL/1500/13-14/3424/ 07/03/2014
+________________
+The project location is situated in the state of Gujarat. The nearest airport Facilities The project site is well
+connected by district and village roads to the nearest town. The geographic co-ordinates of the project
+locations have been provided below.
+
+Sr. No. /Name Of PP/ District/ WTG Number /Pinpoint Location
+__________
+M/S Nutan Wind Farm Jamnagar /SEL/1500/13-14/3422 /22°10'10.5"N 69°36'27.9"E
+________
+M/S Nutan Wind Farm Jamnagar /V15 SEL/1500/13-14/3423 /22°09'58.6"N 69°36'11.5"E
+________
+M/S Nutan Wind Farm Jamnagar /V17 SEL/1500/13-14/3424/ 22°09'24.3"N 69°36'30.8"E
